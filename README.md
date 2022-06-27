@@ -6,3 +6,6 @@ Execute python script
 
   python3 first_script.py
 </pre>
+
+# pip
+Pip is a package installer for python.
